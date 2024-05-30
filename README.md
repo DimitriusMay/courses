@@ -1,0 +1,2 @@
+# courses
+Django pet project
