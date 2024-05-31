@@ -1,12 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{course.title}}{%endblock%}
+
 {%comment%}
 <!--
 Шаблон расширяет базовый шаблон, здесь отображается
 один из выбранных курсов.
 -->
 {%endcomment%}
-
-{% extends "base.html" %}
-{% block title %}{{course.title}}{%endblock%}
 
 {% block my_content %}
 <table class="table mt-5 table-bordered table-striped table-hover">
