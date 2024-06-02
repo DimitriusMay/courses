@@ -2,7 +2,8 @@
 
 # deployed on http://dmay17.pythonanywhere.com
 
-# [Video Instruction here]( https://youtu.be/RRhNwvp0KOw) https://youtu.be/RRhNwvp0KOw
+# [Video Instruction here]( https://youtu.be/RRhNwvp0KOw) 
+https://youtu.be/RRhNwvp0KOw
 
 ![dmayproject](https://github.com/DimitriusMay/courses/assets/151651786/eb949601-919d-446d-9ba5-50db1055a791)
 
